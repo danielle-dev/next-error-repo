@@ -74,3 +74,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 ## Debug steps taken
 - Install npm globally (didn't expect this to work, but was recommended on several StackOverflow issues, e.g. [this one](https://stackoverflow.com/questions/29492240/error-cannot-find-module-webpack))
 - Rebuild node_modules
+- Upgrade npm for `gva-cms` and `cms-core`, according to this [thread](https://github.com/vercel/next.js/issues/9590#issuecomment-560541692)
